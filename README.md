@@ -36,7 +36,7 @@ cmake -B build -S .
 cmake --build build
 ```
 
-在编译完成后程序的路径为 `code/build/src/match`。
+该项目使用的标准是 c++23, 请确保编译器支持该版本的编译。在编译完成后程序的路径为 `code/build/src/match`。
 
 ## 使用
 
